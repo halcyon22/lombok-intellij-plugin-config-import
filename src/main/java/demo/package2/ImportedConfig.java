@@ -11,6 +11,11 @@ public class ImportedConfig {
         The editor says "Cannot resolve symbol 'package1log'", but it compiles and runs.
          */
         package1log.info("Greetings from ImportedConfig");
+
+        /*
+        Looks good in the editor, but it doesn't compile.
+         */
+        log.info("Greetings from ImportedConfig");
     }
 
 }
