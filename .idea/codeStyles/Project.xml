@@ -1,0 +1,12 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="150" />
+    <option name="SOFT_MARGINS" value="120" />
+    <JavaCodeStyleSettings>
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5" />
+    </JavaCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="BLANK_LINES_BEFORE_METHOD_BODY" value="1" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
